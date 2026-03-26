@@ -1,1 +1,2 @@
-# una-ihcux-lista05
+# una-ihcux-lista05 n  <img width="566" height="378" alt="image" src="https://github.com/user-attachments/assets/c1752af4-0cdf-469d-882b-d4f4bb9c22ab" />
+Para executar o programa foi seguido os passos corretamente  da atividade eu so nao tinha a pasta LabDotnet mais e tive que recria-la atraves dos comandos apresentaveis em sala bastante uteis .Utilizei CD para abrir pasta , nao havia achado a pasta dei um dir para procurar as outras pastas para conferir ,usei mkdir para criar a pasta , inseri os codigo passo a passo a pasta conversor , code.. para abrir o vs code e xecutar o programa dentro da pasta atraves do programa CS, apos o dotnet run para rodar o codigo .Não obtive erros .
